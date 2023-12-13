@@ -3,7 +3,7 @@ import CustomersTable from '@/app/ui/customers/table'
 
 const Customer = () => {
   return (
-    <div>Customer Pages</div>
+    <div>Customer Pages need to implement design</div>
   )
 }
 
