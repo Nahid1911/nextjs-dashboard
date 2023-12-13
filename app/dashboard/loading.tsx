@@ -1,9 +1,8 @@
 import React from 'react'
+import DashboardSkeleton from '../ui/skeletons'
 
 const Loading = () => {
-  return (
-    <div>Loading......</div>
-  )
+  return <DashboardSkeleton/>
 }
 
 export default Loading
